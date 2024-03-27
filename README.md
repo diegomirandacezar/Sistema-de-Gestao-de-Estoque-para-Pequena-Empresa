@@ -1,4 +1,5 @@
 ## Sistema de Gestâo de Estoque para Pequena Empresa
+![banner](https://github.com/diegomirandacezar/Sistema-de-Gestao-de-Estoque-para-Pequena-Empresa/blob/main/WhatsApp%20Image%202024-03-27%20at%2014.15.33.jpeg)
 Este sistema foi criado para facilitar a gestâo de estoque em pequenas empresas. Ele  centraliza informações sobre produtos, categorias, movimentações de estoque e  fornecedores, permitindo um controle de estoque eficiente e a manutenção de um  registro detalhado das operações.
 
 ### Tabelas Implementadas
